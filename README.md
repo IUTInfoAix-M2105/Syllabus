@@ -1,5 +1,5 @@
 
-# <img src="logo.png" alt="class logo" class="logo"/> Introduction aux IHM en Java
+# <img src="assets/logo.png" alt="class logo" class="logo"/> Introduction aux IHM en Java
 
 * **Cours:** [M2105](http://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf)
 * **Responsable:** Sébastien NEDJAR, [sebastien.nedjar@univ-amu.fr](mailto:sebastien.nedjar@univ-amu.fr)
