@@ -3,6 +3,7 @@
 
 * **Cours:** [M2105](http://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf)
 * **Responsable:** Sébastien NEDJAR, [sebastien.nedjar@univ-amu.fr](mailto:sebastien.nedjar@univ-amu.fr)
+* **Enseignants:** [Sébastien NEDJAR](mailto:sebastien.nedjar@univ-amu.fr), [Cyril Pain-Barre](mailto:cyril.pain-barre@univ-amu.fr)
 * **Besoin d'aide ?**
     * La page [Piazza de ce cours](piazza.com/univ-amu.fr/spring2017/m2105/home).
     * Consulter et/ou créér des [issues](https://github.com/IUTInfoAix-M2105/Syllabus/issues).
