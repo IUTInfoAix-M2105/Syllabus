@@ -41,7 +41,7 @@ En plus de ces objectifs principaux, cet enseignement sera l'occasion de découv
 - JavaFx 3
 
 ### TD/TP (28h)
-#### TP 1 : Pour débuter
+#### TP 1 : Pour débuter (6h)
 - Mise en place de l'environnement  :
   * Découverte du workflow
   * Import du projet dans l'IDE
@@ -54,7 +54,7 @@ En plus de ces objectifs principaux, cet enseignement sera l'occasion de découv
   * Classes et intefaces
   * Lambda
 
-#### TP 2 Premier contact avec JavaFx (Stage, scène, événements... ):
+#### TP 2 Premier contact avec JavaFx (Stage, scène, événements... )(8h):
 - Première application : les classes Application et Stage
 - Cycle de vie d'une application
 - Premières applications graphiques : composants et événements
@@ -68,8 +68,8 @@ En plus de ces objectifs principaux, cet enseignement sera l'occasion de découv
   * Composition de composant et panneau de base
   * Animation
   
-#### TP 3 Propriétés et Bindings :
-#### TP 4 :
+#### TP 3 Propriétés et Bindings (6h) :
+#### TP 4 (8h):
 
 
 ## Méthodologie
