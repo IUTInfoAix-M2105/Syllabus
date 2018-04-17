@@ -3,9 +3,9 @@
 
 * **Cours:** [M2105](http://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf)
 * **Responsable:** Sébastien NEDJAR, [sebastien.nedjar@univ-amu.fr](mailto:sebastien.nedjar@univ-amu.fr)
-* **Enseignants:** [Sébastien NEDJAR](mailto:sebastien.nedjar@univ-amu.fr), [Cyril Pain-Barre](mailto:cyril.pain-barre@univ-amu.fr)
+* **Enseignants:** [Sébastien NEDJAR](mailto:sebastien.nedjar@univ-amu.fr), [Petru Valicov](mailto:petru.valicov@univ-amu.fr), [Cyril Pain-Barre](mailto:cyril.pain-barre@univ-amu.fr)
 * **Besoin d'aide ?**
-    * La page [Piazza de ce cours](https://piazza.com/univ-amu.fr/spring2017/m2105/home).
+    * La page [Piazza de ce cours](https://piazza.com/univ-amu.fr/spring2018/m2105/home).
     * Consulter et/ou créér des [issues](https://github.com/IUTInfoAix-M2105/Syllabus/issues).
     * [Email](mailto:sebastien.nedjar@univ-amu.fr) pour une question d'ordre privée, ou pour convenir d'un rendez-vous physique.
 
@@ -28,7 +28,6 @@ Les réalisations de ce cours utiliseront la bibliothèque [Java FX](http://docs
 En plus de ces objectifs principaux, cet enseignement sera l'occasion de découvrir plusieurs outils et méthodes venant en support au développement logiciel. Sans entrer dans le détail de la configuration et de la mise en place, les étudiants découvriront Git, les tests unitaires et l'intégration continu.
 
 ## Contenu et structuration du parcours
-
 - Programmation événementielle
 - Spécifications d’interfaces utilisateur, maquettage
 - Notions d’ergonomie des interfaces utilisateur
@@ -37,15 +36,13 @@ En plus de ces objectifs principaux, cet enseignement sera l'occasion de découv
 ### CM (10h)
 - Intro Java
 - Objet en Java
-- Git
 - JavaFx 1
 - JavaFx 2
+- JavaFx 3
 
-### TD (16h)
-#### Séance 1 : Pour débuter
+### TD/TP (28h)
+#### TP 1 : Pour débuter
 - Mise en place de l'environnement  :
-  * Création compte github
-  * Configuration git
   * Découverte du workflow
   * Import du projet dans l'IDE
 
@@ -57,15 +54,23 @@ En plus de ces objectifs principaux, cet enseignement sera l'occasion de découv
   * Classes et intefaces
   * Lambda
 
-#### Séance 2 :
-#### Séance 3 :
-#### Séance 4 :
+#### TP 2 Premier contact avec JavaFx (Stage, scène, événements... ):
+- Première application : les classes Application et Stage
+- Cycle de vie d'une application
+- Premières applications graphiques : composants et événements
+  * Hello word graphique
+  * Personnalisation de la scène
+  * Composants graphiques simples et placement
+  * Personnalisation du style d'un composant
+  * Événements
+- Sujets complémentaires : Animations, gestionnaires de positionnement et dessin
+  * Interaction entre composants
+  * Composition de composant et panneau de base
+  * Animation
+  
+#### TP 3 Propriétés et Bindings :
+#### TP 4 :
 
-### TP (12h)
-
-#### Séance 5 :
-#### Séance 6 :
-#### Séance 7 :
 
 ## Méthodologie
 Formation-action participative et interactive : ces formations s'appuient sur les connaissances, les expériences des participants, leur implication les rendant acteurs de leur formation.
@@ -87,6 +92,6 @@ Pour travailler sur d'autres machines que celle du département, il faudra insta
 L'installation de ces outils peut se faire manuellement sous windows, avec [homebrew](https://brew.sh/index_fr.html) sous MacOS ou avec le gestionnaire de paquet de votre distribution Linux.
 
 ## Modalités d'évaluation
- - Examen final de 2h. Voir examens des années précédentes: [2016](https://github.com/IUTInfoAix-M2105/TestIHM2016/blob/master/Sujet.md), [2015](https://github.com/IUTInfoAix-M2105/TestIHM2015/blob/master/Sujet.md), [2014](https://github.com/IUTInfoAix-M2105/TestIHM2014/blob/master/Sujet.md) **(min 90% de la note du module M2105)**
+ - Examen final de 2h. Voir examens des années précédentes: [2017](https://github.com/IUTInfoAix-M2105/TestIHM2017/blob/master/Sujet.md), [2016](https://github.com/IUTInfoAix-M2105/TestIHM2016/blob/master/Sujet.md), [2015](https://github.com/IUTInfoAix-M2105/TestIHM2015/blob/master/Sujet.md), [2014](https://github.com/IUTInfoAix-M2105/TestIHM2014/blob/master/Sujet.md) **(min 90% de la note du module M2105)**
  - Controle continu du travail fait en tp et mis en ligne sur Github **(max 10% de la note du module M2105)**.
  - Réalisation des maquettes fonctionnelles pour les projets tutorés **(approximativement 17% de la note du module M2107)**.
