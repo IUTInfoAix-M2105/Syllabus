@@ -2,8 +2,9 @@
 # <img src="assets/logo.png" alt="class logo" class="logo"/> Introduction aux IHM en Java
 
 * **Cours:** [M2105](http://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf)
-* **Responsable:** Sébastien NEDJAR, [sebastien.nedjar@univ-amu.fr](mailto:sebastien.nedjar@univ-amu.fr)
-* **Enseignants:** [Sébastien NEDJAR](mailto:sebastien.nedjar@univ-amu.fr), [Petru Valicov](mailto:petru.valicov@univ-amu.fr), [Cyril Pain-Barre](mailto:cyril.pain-barre@univ-amu.fr)
+* **Responsable intérimaire:** [Cyril Pain-Barre](mailto:cyril.pain-barre@univ-amu.fr)
+* **Responsable habituel:** [Sébastien NEDJAR](mailto:sebastien.nedjar@univ-amu.fr)
+* **Enseignants actuels:** [Sophie Nabitz](mailto:sophie.nabitz@univ-avignon.fr), [Cyril Pain-Barre](mailto:cyril.pain-barre@univ-amu.fr)
 * **Besoin d'aide ?**
     * La page [Piazza de ce cours](https://piazza.com/univ-amu.fr/spring2018/m2105/home).
     * Consulter et/ou créér des [issues](https://github.com/IUTInfoAix-M2105/Syllabus/issues).
@@ -34,27 +35,23 @@ En plus de ces objectifs principaux, cet enseignement sera l'occasion de découv
 - Programmation d’interfaces, utilisation de composants graphiques 
 
 ### CM (10h)
-- Intro Java
-- Objet en Java
-- JavaFx 1
-- JavaFx 2
-- JavaFx 3
+- Java et les objets
+- JavaFx
+- JavaFx
+- Java et l'héritage
 
 ### TD/TP (28h)
-#### TP 1 : Pour débuter (6h)
-- Mise en place de l'environnement  :
+#### TP 1 : Pour débuter (8h)
+- Mise en place de l'environnement:
   * Découverte du workflow
   * Import du projet dans l'IDE
-
 - Découverte Java :
   * Helloword
   * Tableau
   * Ligne de commande
-  * Collection
-  * Classes et intefaces
-  * Lambda
+  * Tests avec JUnit 5
 
-#### TP 2 Premier contact avec JavaFx (Stage, scène, événements... )(8h):
+#### TP 2 Premier contact avec JavaFx (Stage, scène, événements... )(6h):
 - Première application : les classes Application et Stage
 - Cycle de vie d'une application
 - Premières applications graphiques : composants et événements
@@ -68,8 +65,8 @@ En plus de ces objectifs principaux, cet enseignement sera l'occasion de découv
   * Composition de composant et panneau de base
   * Animation
   
-#### TP 3 Propriétés et Bindings (6h) :
-#### TP 4 (8h):
+#### TP 3 Propriétés et Bindings (6h)
+#### TP 4 FXML (8h)
 
 
 ## Méthodologie
@@ -92,6 +89,6 @@ Pour travailler sur d'autres machines que celle du département, il faudra insta
 L'installation de ces outils peut se faire manuellement sous windows, avec [homebrew](https://brew.sh/index_fr.html) sous MacOS ou avec le gestionnaire de paquet de votre distribution Linux.
 
 ## Modalités d'évaluation
- - Examen final de 2h. Voir examens des années précédentes: [2017](https://github.com/IUTInfoAix-M2105/TestIHM2017/blob/master/Sujet.md), [2016](https://github.com/IUTInfoAix-M2105/TestIHM2016/blob/master/Sujet.md), [2015](https://github.com/IUTInfoAix-M2105/TestIHM2015/blob/master/Sujet.md), [2014](https://github.com/IUTInfoAix-M2105/TestIHM2014/blob/master/Sujet.md) **(min 90% de la note du module M2105)**
+ - Examen final de 2h. Voir examens des années précédentes: [2019](https://github.com/IUTInfoAix-M2105/TestIHM2019/), [2018](https://github.com/IUTInfoAix-M2105/TestIHM2018/), [2017](https://github.com/IUTInfoAix-M2105/TestIHM2017/), [2016](https://github.com/IUTInfoAix-M2105/TestIHM2016/blob/master/Sujet.md), [2015](https://github.com/IUTInfoAix-M2105/TestIHM2015/blob/master/sujet.md), [2014](https://github.com/IUTInfoAix-M2105/TestIHM2014/blob/master/Sujet.md) **(min 90% de la note du module M2105)**
  - Controle continu du travail fait en tp et mis en ligne sur Github **(max 10% de la note du module M2105)**.
  - Réalisation des maquettes fonctionnelles pour les projets tutorés **(approximativement 17% de la note du module M2107)**.
